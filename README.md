@@ -1,7 +1,11 @@
 # MSSA-Cyber
-Notes from MSSA Cyber cohort OceanSide-6
+Notes from MSSA Cyber (multiple cohorts)
 
 ## Learning Resources
+
+### Applied Network 
+
+https://chrissanders.org/training/cuckoosegg/
 
 ### PowerShell
 
@@ -33,6 +37,12 @@ https://www.cyberseek.org/pathway.html
 https://www.military.com/veteran-jobs/skills-translator
 
 https://www.nist.gov/itl/applied-cybersecurity/nice/resources/veteran-resources
+
+https://pauljerimy.com/it-career-roadmap/
+
+https://pauljerimy.com/security-certification-roadmap/
+
+https://www.cyberseek.org/pathway.html
 
 ### Lessons from the SOC Series
 
