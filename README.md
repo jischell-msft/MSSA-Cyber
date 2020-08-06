@@ -3,7 +3,7 @@ Notes from MSSA Cyber (multiple cohorts)
 
 ## Learning Resources
 
-### Applied Network 
+### Applied Network Defense (freebie course)
 
 https://chrissanders.org/training/cuckoosegg/
 
