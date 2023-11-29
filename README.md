@@ -28,6 +28,11 @@ https://www.amazon.com/Active-Directory-Designing-Deploying-Running/dp/144932002
 
 https://www.hpb.com/products/active-directory-9780596520595
 
+### Kusto/ KQL
+https://detective.kusto.io/
+
+https://kc7cyber.com/
+
 ## Career Guidance
 
 ### Career Pathways
